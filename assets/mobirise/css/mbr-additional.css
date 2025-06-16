@@ -1241,13 +1241,14 @@ a {
   height: 100%;
 }
 .cid-uNjTYcocle .image-wrapper img {
-  height: 100%;
-  object-fit: cover;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
 }
 @media (max-width: 995px) {
   .cid-uNjTYcocle .image-wrapper img {
-    margin-top: 50px;
-    height: 380px;
+    margin-top: 0;
+    max-height: 380px;
   }
 }
 .cid-uNjTYcocle .mbr-section-title {
