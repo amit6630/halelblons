@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "אתר שמעון הלל",
-    "currentPage": "aboutus.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -81,12 +81,12 @@
       "size": "65px",
       "backgroundColor": "#e5ddd5",
       "position": "left",
-      "popupMessage": "הי כאן שמעון הלל \nלכל דבר מוזמנים לפנות אליי",
+      "popupMessage": "👋 היי, כאן שמעון הלל – אומן בלונים 🎈  \n?מחפש עיצוב לאירוע? או יש לך שאלה\n\nשלח לי הודעה כאן ואני אחזור אליך בהקדם",
       "showPopup": true,
       "showOnIE": true,
       "autoOpenTimeout": "5",
       "headerColor": "#39847a",
-      "headerTitle": "דברו איתי",
+      "headerTitle": "דברו איתי בוואטסאפ",
       "placeholder": "כתוב כאן",
       "zIndex": 10,
       "enabled": true
@@ -95,7 +95,7 @@
     "cssOptimize": true,
     "lazyLoad": true,
     "favicon": false,
-    "mbrsiteDomain": "qtfisxa4jf",
+    "mbrsiteDomain": "im6mr5uixn",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -1499,11 +1499,11 @@
             }
           },
           "_cid": "uOuagtCkmG",
+          "_anchor": "footer1-1w",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
-          "_params": {},
-          "_anchor": "footer1-1w"
+          "_params": {}
         }
       ]
     },
@@ -2847,11 +2847,11 @@
             }
           },
           "_cid": "uOuagtCkmG",
+          "_anchor": "footer1-1w",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
-          "_params": {},
-          "_anchor": "footer1-1w"
+          "_params": {}
         }
       ]
     },
@@ -4058,11 +4058,11 @@
             }
           },
           "_cid": "uOuagtCkmG",
+          "_anchor": "footer1-1w",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
-          "_params": {},
-          "_anchor": "footer1-1w"
+          "_params": {}
         }
       ]
     },
@@ -5254,11 +5254,11 @@
             }
           },
           "_cid": "uOuagtCkmG",
+          "_anchor": "footer1-1w",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
-          "_params": {},
-          "_anchor": "footer1-1w"
+          "_params": {}
         }
       ]
     }
