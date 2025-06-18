@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "אתר שמעון הלל",
-    "currentPage": "gallery.html",
+    "currentPage": "aboutus.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -95,7 +95,7 @@
     "cssOptimize": true,
     "lazyLoad": true,
     "favicon": false,
-    "mbrsiteDomain": "wd4pcbviyu",
+    "mbrsiteDomain": "qtfisxa4jf",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -103,7 +103,8 @@
     "cookiesAlert": false,
     "gdpr": false,
     "pwa-switcher": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-L6NMJ8BXZK\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-L6NMJ8BXZK');\n</script>"
   },
   "pages": {
     "index.html": {
